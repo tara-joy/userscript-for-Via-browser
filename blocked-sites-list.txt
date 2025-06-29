@@ -1,0 +1,100 @@
+Blocked Sites List
+==================
+
+Entertainment & Social Media:
+- dynasty-scans.com
+- itch.io
+- astro.com
+- archiveofourown.org
+- ao3.org
+- www.archiveofourown.org
+- www.ao3.org
+- transformativeworks.org
+- www.transformativeworks.org
+- archive.transformativeworks.org
+- www.4chan.org
+- boards.4chan.org
+- fanfiction.net
+- wattpad.com
+- webtoons.com
+- manhwahentai.me
+- manhwax.net
+- reddit.com
+- instagram.com
+- boredpanda.com
+- buzzfeed.com
+- tiktok.com
+
+Gaming & Software:
+- store.steampowered.com
+- gog.com
+- modding-openmw.com
+
+Food Delivery:
+- mjam.net
+- mjam.at
+- mjam.com
+- foodora.com
+- foodora.at
+
+News Sites - Austria:
+- derstandard.at
+- diepresse.com
+- krone.at
+- orf.at
+- kurier.at
+- heute.at
+- salzburg24.at
+- vol.at
+
+News Sites - Germany:
+- bild.de
+- spiegel.de
+- zeit.de
+- faz.net
+- sueddeutsche.de
+- welt.de
+- focus.de
+- tagesschau.de
+- n-tv.de
+- stern.de
+- handelsblatt.com
+- tagesspiegel.de
+
+News Sites - US:
+- cnn.com
+- foxnews.com
+- nytimes.com
+- washingtonpost.com
+- usatoday.com
+- wsj.com
+- nbcnews.com
+- abcnews.go.com
+- cbsnews.com
+- npr.org
+- politico.com
+- huffpost.com
+- theguardian.com
+- reuters.com
+- ap.org
+- bloomberg.com
+
+News Sites - UK:
+- bbc.com
+- bbc.co.uk
+- independent.co.uk
+- dailymail.co.uk
+- telegraph.co.uk
+- thesun.co.uk
+- mirror.co.uk
+- express.co.uk
+- metro.co.uk
+- standard.co.uk
+- ft.com
+- economist.com
+
+Adult Content:
+- pornhub.com
+- www.motherless.com
+
+Total: 77 blocked domains
